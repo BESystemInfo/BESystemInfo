@@ -26,4 +26,13 @@
     <p>Aprendendo atualmente Javascript, framework Angular e iniciando os estudos em .Net Core.
     </p>
   </div>
+<div align="center">
+ 
+  ## Contatos
+  
+  [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BESystemInfo)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno.esilva@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoernandesdasilva)
+  
+</div>
           
