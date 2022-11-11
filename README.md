@@ -22,6 +22,8 @@
 
   <div align="center">
     <h3>Sobre Mim:</h3>
-    <p>Descobrindo o mundo do desenvolvimento. Atualmente estudante do último semestre de Engenharia de Computação pela UNIVESP - Universidade Virtual do Estado de São Paulo, e participante do projeto Código do Futuro, promovido pelas empresas Febrafar/Farmarcas, em parceria com a GAMA Academy. Desbravador de novos conhecimentos, adoro inovação. Curioso por natureza, sempre tentando entender como tudo funciona e buscando melhorias para os processos. Gamer de coração e aficcionado por Animes e Séries. </p>
+    <p>Descobrindo o mundo do Desenvolvimento Full Stack. Atualmente estudante do último semestre de Engenharia de Computação pela UNIVESP - Universidade Virtual do Estado de São Paulo, e participante do projeto Código do Futuro, promovido pelas empresas Febrafar/Farmarcas, em parceria com a GAMA Academy. Desbravador de novos conhecimentos, adoro inovação. Curioso por natureza, sempre tentando entender como tudo funciona e buscando melhorias para os processos. Gamer de coração e aficcionado por Animes e Séries. </p>
+    <p>Aprendendo atualmente Javascript, framework Angular e iniciando os estudos em .Net Core.
+    </p>
   </div>
           
